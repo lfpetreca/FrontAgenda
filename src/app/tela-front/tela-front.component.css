@@ -1,0 +1,42 @@
+.cad {
+    margin: 0;
+    background: transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.texto {
+    font-family: "BADABB__";
+    font-size: 15pt;
+    color: #c8493a;
+    text-align: center;
+}
+
+.logos {
+    position: absolute;
+    background: transparent;
+    border-radius: 10px;
+    width: 15%;
+    float: right;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.logos {
+    position: absolute;
+    background: transparent;
+    border-radius: 10px;
+    width: 15%;
+    float: right;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}

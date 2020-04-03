@@ -1,0 +1,13 @@
+.buttonLogin {
+    font-family: "BADABB__";
+    font-size: 18pt;
+    color: #ecf7fc;
+    background-color: #4eb7eb;
+    border: #4eb7eb;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.logo {
+    width: 40%;
+}

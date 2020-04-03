@@ -1,0 +1,71 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/* 
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    border: none;
+    outline: none;
+    font-weight: 300;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.logos {
+    position: absolute;
+    background: transparent;
+    border-radius: 10px;
+    width: 15%;
+    float: right;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: "BADABB__";
+    src: url("../src/app/assets/fonts/BADABB__.TTF");
+}
+
+.logo {
+    width: 40%;
+}
+
+.space {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.headers {
+    background-color: #4eb7eb;
+    width: 100%;
+    height: 90px;
+    margin-bottom: 30px;
+}
+
+label {
+    font-family: "BADABB__";
+    color: #4eb7eb;
+    font-size: 15pt;
+}
+
+.img {
+    width: 100%;
+}
+
+.texto {
+    font-family: "BADABB__";
+    font-size: 15pt;
+    color: #c8493a;
+    text-align: center;
+}
