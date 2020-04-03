@@ -31,7 +31,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */
 
 @font-face {
     font-family: "BADABB__";
-    src: url("../src/app/assets/fonts/BADABB__.TTF");
+    src: url("../src/assets/fonts/BADABB__.TTF");
 }
 
 .logo {
